@@ -4,3 +4,4 @@ git intro
 - git commit
 - git rm
 _ git status
+-git diff
